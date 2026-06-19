@@ -121,6 +121,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DBAkademikADODataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="dsMahasiswa.cs">
+      <DependentUpon>dsMahasiswa.xsd</DependentUpon>
+    </Compile>
     <Compile Include="dsMahasiswa.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -171,6 +174,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="DBAkademikADODataSet.xsc">
       <DependentUpon>DBAkademikADODataSet.xsd</DependentUpon>
