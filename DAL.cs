@@ -21,6 +21,7 @@ namespace CRUDMahasiswaADO
             return $"Data Source={GetLocalIPAddress()}; Initial Catalog=DBAkademikADO; User ID=sa; Password=123; TrustServerCertificate=True;";
         }
 
+
         // 2. Method Menghitung Jumlah Mahasiswa (Output Parameter)
         public int CountMhs()
         {
