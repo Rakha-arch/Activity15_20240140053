@@ -361,3 +361,36 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Properties/AssemblyInfo.cs
+/CRUDMahasiswaADO.sln
+/Properties/Resources.Designer.cs
+/Properties/Resources.resx
+/Properties/Settings.Designer.cs
+/Properties/Settings.settings
+/App.config
+/CrystalReport1.cs
+/CrystalReport1.rpt
+/DAL.cs
+/DASHBOARD.cs
+/DASHBOARD.Designer.cs
+/DASHBOARD.resx
+/DBAkademikADODataSet.Designer.cs
+/DBAkademikADODataSet.xsc
+/DBAkademikADODataSet.xsd
+/DBAkademikADODataSet.xss
+/dsMahasiswa.Designer.cs
+/dsMahasiswa.xsc
+/dsMahasiswa.xsd
+/dsMahasiswa.xss
+/Form3.cs
+/Form3.Designer.cs
+/Form3.resx
+/Form4.cs
+/Form4.Designer.cs
+/Form4.resx
+/FormMahasiswa.cs
+/FormMahasiswa.Designer.cs
+/FormMahasiswa.resx
+/MahasiswaReport.cs
+/packages.config
+/Program.cs

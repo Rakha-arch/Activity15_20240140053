@@ -50,7 +50,7 @@ namespace CRUDMahasiswaADO
                     cmd.CommandType = CommandType.StoredProcedure;
                     using (SqlDataAdapter da = new SqlDataAdapter(cmd))
                     {
-                        da.Fill(dt); // Method Fill otomatis membuka dan menutup koneksi sendiri
+                 
                     }
                 }
             }
