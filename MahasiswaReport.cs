@@ -15,3 +15,4 @@ namespace CRUDMahasiswaADO
         public DateTime TanggalDaftar { get; set; }
     }
 }
+
